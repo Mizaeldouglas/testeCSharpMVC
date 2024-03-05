@@ -1,13 +1,13 @@
 # Sistema de Filtro de busca Com c# e Dotnet7.0
 
-Aqui esta um video para demonstrar como ficou o projeto:
+Aqui esta um video para demonstrar como ficou o sistema:
 
 https://github.com/Mizaeldouglas/testeCSharpMVC/assets/89351018/427c23ca-1d4e-4ba4-86f5-eeec50bf8504
 
 
 ## Stack utilizada
 
-**Back-end e Front-end:** C#, Dotnet 7
+**Back-end e Front-end:** C#, Dotnet 7 com estrutura MVC
 
 
 ## Instalação
